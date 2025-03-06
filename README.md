@@ -1,6 +1,6 @@
 # Hussein Salim's GitHub Dashboard
 
-Welcome to the customized GitHub Dashboard project! This project aims to create a personalized and interactive dashboard for GitHub users, showcasing repositories, recent activity, trending repositories, and more.
+Welcome to the customized GitHub Dashboard project! This project is an Odin Project and it aims to create a personalized and interactive dashboard for GitHub users, showcasing repositories, recent activity, trending repositories, and more.
 
 ## Project Description
 
